@@ -4,7 +4,6 @@ date: 2016-10-02 17:58:27
 description: "Java并发操作中使用的工具类"
 categories: [Thread]
 tags: [Java并发]
-top: 6
 ---
 ## 执行器
 >特点：用于启动并控制线程执行

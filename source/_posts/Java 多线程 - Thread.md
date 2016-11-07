@@ -4,7 +4,6 @@ date: 2016-10-02 17:58:27
 description: "Java线程的基础知识笔记"
 categories: [Thread]
 tags: [Java]
-top: 2
 ---
 ## interrupt() 线程中断方法
 >javaDoc
