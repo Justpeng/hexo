@@ -2,8 +2,8 @@
 title: Java设计模式-单例模式
 date: 2016-10-02 17:58:27
 description: "Java设计模式学习笔记"
-categories: [单例模式]
-tags: [设计模式]
+categories: [设计模式]
+tags: [单例模式]
 ---
 # 单例模式
 保证一个类仅有一个实例，并提供一个访问它的全局访问点。

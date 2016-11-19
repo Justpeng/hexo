@@ -1,4 +1,12 @@
-# Git 
+---
+title: Git 学习初始篇
+date: 2016-11-12 17:58:27
+description: "更深入介绍版本控制工具git的使用"
+categories: [Git]
+tags: [版本控制]
+top: 11
+---
+# Git
 ## what is Git
 
 重点：强大的分布式、高效代码管理工具！

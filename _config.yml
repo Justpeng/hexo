@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
  # Site，这一块区域主要是设置博客的主要说明，需要注意的是：每个冒号后面都是有一个空格，然后再书写自己的内容的
-title: DoubleShare
-subtitle: 我的一些技术分享
-description: 一切刚刚开始...
+title: Just_Idea
+subtitle: 学习和分享
+description: Be Better!
 author: Just
 language: zh-CN
 email : 1055767089@qq.com
@@ -13,7 +13,7 @@ timezone:
 
 # URL，这一块一般可以设置的是 url 这个参数，比如我要设置绑定域名的，这里就需要填写我的域名信息
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://doublesharejust.com.cn
+url: http://jidea.net
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

@@ -1,3 +1,3 @@
 <p align="center">
-    DOUBLE SHARE
+    Just_Share_Idea
 </p>

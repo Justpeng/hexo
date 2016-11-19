@@ -2,8 +2,8 @@
 title: Java设计模式-装饰者模式
 date: 2016-10-02 17:58:27
 description: "Java设计模式学习笔记"
-categories: [装饰者模式]
-tags: [设计模式]
+categories: [设计模式]
+tags: [单例模式]
 ---
 
 ## 原理
